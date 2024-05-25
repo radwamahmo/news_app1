@@ -1,0 +1,15 @@
+{
+ "app_title" : "الأخبار",
+  "sports" :  "الرياضة",
+   "general" : "أخبار عامة",
+   "health" : "الصحة",
+   "business" : "الأعمال",
+    "entertainment" : "البيئة",
+    "science" : "العلوم",
+    "categories": "الفئات",
+   "settings": "الاعدادات",
+    "language": "اللغة",
+    "english": "الانجليزية",
+    "arabic": "العربية"
+
+}
